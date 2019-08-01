@@ -1,8 +1,5 @@
 require 'discordrb'
 require 'configatron'
-require 'nokogiri'
-require 'open-uri'
-require 'net/http'
 require 'json'
 require_relative 'config/config.rb'
 
