@@ -1,6 +1,7 @@
 require 'discordrb'
 require 'configatron'
 require 'json'
+require 'nokogiri'
 require_relative 'config/config.rb'
 
 module Bot
