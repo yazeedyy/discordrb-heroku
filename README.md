@@ -13,6 +13,6 @@
 ![](https://i.imgur.com/B9eIT74.jpg)
 
 ### Update
-- you need adds-on Heroku [Scheduler](https://elements.heroku.com/addons/scheduler) for continuesly run bot . this adds-on need verification CreditCard 
+- you need adds-on Heroku [Scheduler](https://elements.heroku.com/addons/scheduler) for continuesly run bot . to use adds-on need verification CreditCard 
 
 #### thanks
