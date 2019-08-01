@@ -6,7 +6,7 @@
 1. clone this repo
 2. add your token and userid in config/config.rb
 3. deploy
-4. open bash in website heroku or ```hero run bash``` in git CLI
+4. open console bash in website heroku or ```hero run bash``` in git CLI
 5. execute in bash ```ruby linkstart.rb```
 #### VOILAA.. bot running
 
