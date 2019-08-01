@@ -1,6 +1,6 @@
 
 ### How to deploy Discordrb to heroku ?
-###### Heroku
+
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)  
 
 1. add your token and userid in config/congig.rb
@@ -8,6 +8,7 @@
 3. open bash in website heroku or ```hero run bash``` in git CLI
 4. ```ruby linkstart.rb```
 #### VOILAA..
+
 [](https://i.imgur.com/B9eIT74.jpg)
 
 ### Update
