@@ -7,9 +7,9 @@
 2. deploy
 3. open bash in website heroku or ```hero run bash``` in git CLI
 4. ```ruby linkstart.rb```
-#### VOILAA..
+#### VOILAA.. bot running
 
-[](https://i.imgur.com/B9eIT74.jpg)
+![](https://i.imgur.com/B9eIT74.jpg)
 
 ### Update
 - you need adds-on Heroku [Scheduler](https://elements.heroku.com/addons/scheduler) for continuesly run bot . this adds-on need verification CreditCard 
