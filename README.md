@@ -12,7 +12,7 @@
 *i forgot add libsodium in buildpack :(
 ![](https://i.imgur.com/B9eIT74.jpg)
 
-### Update
-- you need adds-on Heroku [Scheduler](https://elements.heroku.com/addons/scheduler) for continuesly run bot . to use adds-on need verification CreditCard 
+### nb
+- you need add-ons Heroku [Scheduler](https://elements.heroku.com/addons/scheduler) for continuesly run bot . to use add-ons account heroku need verification CreditCard 
 
 #### thanks
