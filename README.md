@@ -9,7 +9,7 @@
 4. open console bash in website heroku or ```hero run bash``` in git CLI
 5. execute in bash ```ruby linkstart.rb```
 #### VOILAA.. bot running
-
+*i forgot add libsodium in buildpack :(
 ![](https://i.imgur.com/B9eIT74.jpg)
 
 ### Update
