@@ -5,7 +5,7 @@ require 'nokogiri'
 require_relative 'config/config.rb'
 
 module Bot
-    bot = Discordrb::Commands::CommandBot.new token: configatron.token, prefix: configatron.prefix
+    bot = Discordrb::Commands::CommandBot.new token: configatron.token, prefix: configatron.prefix, application_id: configatron.userid
 
     # Discord commands
     module DiscordCommands; end
