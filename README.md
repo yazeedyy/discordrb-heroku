@@ -10,9 +10,9 @@
 5. execute in bash ```ruby linkstart.rb```
 #### VOILAA.. bot running
 *i forgot add libsodium in buildpack :(
-![](https://i.imgur.com/B9eIT74.jpg)
+![](https://i.imgur.com/pDXB8GQ.jpg)
 
 ### nb
-- you need add-ons Heroku [Scheduler](https://elements.heroku.com/addons/scheduler) for continuesly run bot . to use add-ons account heroku need verification CreditCard 
+- you need add-ons [Heroku Scheduler](https://elements.heroku.com/addons/scheduler) for continuesly run bot . to use add-ons account heroku need verification CreditCard 
 
 #### thanks
